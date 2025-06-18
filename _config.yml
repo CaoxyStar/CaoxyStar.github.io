@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiangyu Cao"
-  pronouns         : "he"  
+  pronouns         : # example
   bio              : "Master student at ICT, CAS"
   location         : "Beijing, China"
   employer         : "ICT, CAS"
